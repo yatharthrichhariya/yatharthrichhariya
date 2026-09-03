@@ -98,7 +98,9 @@
         "showTitle": false,
         "customLocation": "Vidisha ( M . P )",
         "animationType": "none",
-        "animationPreviewKey": 2
+        "animationPreviewKey": 2,
+        "hideBorder": false,
+        "textAlign": "center"
       },
       "locked": false,
       "visible": true,
@@ -128,9 +130,10 @@
           "email": "mailto:yatharthrichhariya@gmail.com"
         },
         "hideBorder": false,
-        "showTitle": true,
+        "showTitle": false,
         "animationType": "fade-in",
-        "animationPreviewKey": 7
+        "animationPreviewKey": 7,
+        "badgeStyle": "skillicons"
       },
       "locked": false,
       "visible": true,
