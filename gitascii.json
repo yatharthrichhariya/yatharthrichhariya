@@ -31864,7 +31864,7 @@
       },
       "config": {
         "showTitle": false,
-        "quoteType": "quote-day"
+        "quoteType": "random"
       },
       "locked": false,
       "visible": true,
