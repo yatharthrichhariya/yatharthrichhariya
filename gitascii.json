@@ -31783,14 +31783,14 @@
       "config": {
         "accentColor": "#ffa657",
         "showTitle": false,
-        "paletteIndex": 3,
+        "paletteIndex": 0,
         "palette": [
           "#161b22",
-          "#450a0a",
-          "#7f1d1d",
-          "#b91c1c",
-          "#ef4444",
-          "#f87171"
+          "#0e4429",
+          "#006d32",
+          "#26a641",
+          "#39d353",
+          "#69f0a0"
         ]
       },
       "locked": false,
