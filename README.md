@@ -9,20 +9,22 @@
 
 <br>
 
-<!-- Clickable Social Links -->
-
 <p align="center">
 
 <a href="https://github.com/yatharthrichhariya">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.icons8.com/?size=80&id=106562&format=png&color=FFFFFF" width="70" alt="GitHub">
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/yatharth-richhariya">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.icons8.com/?size=80&id=13930&format=png&color=FFFFFF" width="70" alt="LinkedIn">
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:yatharthrichhariya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.icons8.com/?size=80&id=12413&format=png&color=FFFFFF" width="70" alt="Email">
 </a>
 
 </p>
