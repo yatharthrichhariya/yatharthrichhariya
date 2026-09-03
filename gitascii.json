@@ -107,39 +107,6 @@
       "zIndex": 5
     },
     {
-      "instanceId": "widget_1788414648556",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
-      "position": {
-        "x": 378,
-        "y": 290
-      },
-      "size": {
-        "width": 416,
-        "height": 120
-      },
-      "config": {
-        "selectedSocials": [
-          "github",
-          "linkedin",
-          "email"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/yatharthrichhariya",
-          "linkedin": "https://www.linkedin.com/in/yatharth-richhariya",
-          "email": "mailto:yatharthrichhariya@gmail.com"
-        },
-        "hideBorder": false,
-        "showTitle": false,
-        "animationType": "fade-in",
-        "animationPreviewKey": 7,
-        "badgeStyle": "skillicons"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6
-    },
-    {
       "instanceId": "widget_1788414805378",
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
