@@ -63,19 +63,31 @@
       },
       "size": {
         "width": 416,
-        "height": 200
+        "height": 136
       },
       "config": {
         "showWebsite": true,
         "animationType": "fade-in",
-        "animationPreviewKey": 1,
+        "animationPreviewKey": 11,
         "dotLeaders": true,
         "headerColor": "#c5ff4a",
         "labelColor": "#ffa657",
         "dotColor": "#484f58",
         "valueColor": "#f0f6fc",
         "statsValColor": "#79c0ff",
-        "dividerColor": "#30363d"
+        "dividerColor": "#30363d",
+        "showEmail": true,
+        "customEmail": "yatharthrichhariya@gmail.com",
+        "showStatsSection": false,
+        "customLocation": "Vidisha ( M.P )",
+        "customCompany": "",
+        "customStatus": "• SQL • Power BI • Tableau • AI/ML • ",
+        "showStatus": false,
+        "showUptime": false,
+        "showFollowing": true,
+        "showPronouns": false,
+        "animationEasing": "ease-out",
+        "showTitle": false
       },
       "locked": false,
       "visible": true,
@@ -31814,6 +31826,45 @@
           "githubactions"
         ],
         "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_1788428276464",
+      "widgetId": "readme-quotes",
+      "name": "Readme-quotes Widget",
+      "position": {
+        "x": 410,
+        "y": 792
+      },
+      "size": {
+        "width": 304,
+        "height": 120
+      },
+      "config": {
+        "quoteType": "random"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1788428379688",
+      "widgetId": "readme-quotes",
+      "name": "Readme-quotes Widget",
+      "position": {
+        "x": 378,
+        "y": 226
+      },
+      "size": {
+        "width": 416,
+        "height": 166
+      },
+      "config": {
+        "showTitle": false,
+        "quoteType": "quote-day"
       },
       "locked": false,
       "visible": true,
