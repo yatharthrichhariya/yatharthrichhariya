@@ -1,6 +1,6 @@
-<a href="www.linkedin.com/in/yatharth-richhariya ">
+<a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/yatharthrichhariya?v=1788419125569"
+    src="https://gitascii.com/api/yatharthrichhariya?v=1788419637332"
     alt="GitAscii Widget"
     width="100%"
   />
