@@ -100,7 +100,7 @@
         "animationType": "none",
         "animationPreviewKey": 2,
         "hideBorder": false,
-        "textAlign": "left"
+        "textAlign": "center"
       },
       "locked": false,
       "visible": true,
