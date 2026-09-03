@@ -1,4 +1,5 @@
 {
+  "username": "yatharthrichhariya",
   "widgets": [
     {
       "instanceId": "widget_1788414471009",
@@ -31890,5 +31891,6 @@
     "templateStyle": "blank",
     "transparentBackground": false
   },
-  "templateId": "blank"
+  "templateId": "blank",
+  "profileSlug": "default"
 }
