@@ -27,8 +27,8 @@
           "   ██    ██    ██    ██    ██    ██ ██    ██ ██  ▀██▄    ██    ██    ██      ██  ▀██▄    ██    ██    ▄▄ ██    ██ ██    ██ ██    ██ ██  ▀██▄    ██       ██    ██    ██",
           "   ██    ██    ██    ██    ██    ██ ██    ██ ██    ██    ██    ██    ██      ██    ██ ████████  ▀████▀  ██    ██ ██    ██ ██    ██ ██    ██ ████████    ██    ██    ██"
         ],
-        "detail": "medium",
-        "cols": 45,
+        "detail": "ultra",
+        "cols": 150,
         "animationType": "fade-in",
         "animationPreviewKey": 1
       },
@@ -100,7 +100,7 @@
         "animationType": "none",
         "animationPreviewKey": 2,
         "hideBorder": false,
-        "textAlign": "center"
+        "textAlign": "left"
       },
       "locked": false,
       "visible": true,
